@@ -5,6 +5,7 @@
   "dependencies": {
     "BalaReva.Excel.Activities": "[2020.1.0]",
     "CreateLibraryTest": "[1.0.1]",
+    "MyCalculator": "[1.0.1]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
